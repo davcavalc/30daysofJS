@@ -1,0 +1,8 @@
+{
+ "name": "30_days_of_js",
+ "version": "1.0.0",
+ "main": "index.js",
+ "repository": "https://github.com/davcavalc/30daysofJS.git",
+ "author": "Davner Firmino Cavalcante <davner23@gmail.com>",
+ "license": "MIT"
+}
